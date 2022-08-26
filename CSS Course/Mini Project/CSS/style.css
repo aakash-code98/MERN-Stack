@@ -13,17 +13,17 @@ body{
 }
 
 nav{
-  border: 3px solid #333;
+  border: 2px solid #333;
   border-radius: 2rem;
   margin: 0 auto 1rem;
-  font-size: 3rem;
-  line-height: 7rem;
+  font-size: 1.75rem;
+  line-height: 4.5rem;
 }
 
 h2{
-  padding: 1rem;
+  padding: 2rem;
   background: gold;
-  border-radius: 1.8rem 1.8rem 0 0;
+  border-radius: 1.9rem 1.9rem 0 0;
 }
 
 ul{
@@ -46,5 +46,5 @@ li a:focus{
 }
 
 li:last-child a{
-  border-radius: 0 0 1.8rem 1.8rem;
+  border-radius: 0 0 1.9rem 1.9rem;
 }
