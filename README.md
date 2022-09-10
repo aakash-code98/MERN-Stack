@@ -1,5 +1,3 @@
-
-
 # MERN-Stack
 
 ## Description
