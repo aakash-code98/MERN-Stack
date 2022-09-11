@@ -1,17 +1,21 @@
 # MERN-Stack
 
-## Description
+<details default = "close">
 
-MERN stack Mini and Major project files coded during the course. All code learned during MERN stack course by Dave Gray from YouTube.
+<summary>Table of Content</summary>
 
 - [CSS course](#css-course)
 
   - [Mini Project](#mini-project)
   - [Card Project](#card-project)
   - [Major Project](#major-project)
-  
-- [JAVASCRIPT course](#javascript-course)
 
+- [JAVASCRIPT course](#javascript-course)
+</details>
+
+## Description
+
+MERN stack Mini and Major project files coded during the course. All code learned during MERN stack course by Dave Gray from YouTube.
 
 ---
 
